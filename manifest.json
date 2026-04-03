@@ -1,0 +1,17 @@
+{
+  "name": "Knowledge Tree",
+  "short_name": "KnowTree",
+  "description": "Grow your tree of knowledge",
+  "theme_color": "#060c06",
+  "background_color": "#060c06",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
